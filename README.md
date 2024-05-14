@@ -2,6 +2,8 @@
 
 Para aplicar o patch no game e dar unlock nas DLCs:
 
+(Baixe o RyuDash.zip e extraia antes do processo)
+
 1. **Localize o Arquivo do Muse Dash pela Steam**
    - Navegue até o diretório de instalação do Muse Dash através da Steam. Geralmente é: `C:\Program Files (x86)\Steam\steamapps\common\Muse Dash`.
 
