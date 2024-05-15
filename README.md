@@ -32,5 +32,5 @@ Para aplicar o patch no game e dar unlock nas DLCs:
    - Agora, inicie o Muse Dash e o jogo deve estar funcionando corretamente com as DLCs liberadas.
 
 ### Créditos
-- Naty
+- Ryuzeen
 - Failz
